@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cinemas</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cinema_details">CinemaDetailsActivity
+    </string>
+    <string name="addressOfCinema">Address:</string>
+    <string name="buttonText">Movies-></string>
+    <string name="title_activity_movie_list">Movies</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="nameView">Movie name:</string>
+    <string name="hourView">Movie hour:</string>
+    <string name="durationView">Movie duration:</string>
+    <string name="buttonView">Buy now!</string>
+    <string name="priceView">Ticket price:</string>
+</resources>
